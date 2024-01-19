@@ -1,0 +1,44 @@
+body {
+    background-color: #00240B;
+    color: #0CF551;
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    text-align: center;
+}
+
+h1, h2, h3 {
+    font-family: Verdana, sans-serif;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #FF0000;
+}
+
+a:hover {
+    text-decoration: dashed;
+    color: #FFFFFF;
+}
+
+img {
+    max-width: 15%;
+}
+
+figure {
+    font-style: italic;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    margin: 10px auto;
+}
+
+hr {
+    background-color: #0b4201;
+    border: 0;
+    height: 1px;
+}
