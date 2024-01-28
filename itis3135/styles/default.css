@@ -29,10 +29,91 @@ figure {
     text-align: center;
 }
 
+.container {
+    display: inline-block;
+    text-align: center;
+}
+
+.container > ol {
+    text-align: left;
+}
+
 ul {
     list-style-type: none;
 }
 
 li {
     margin: 10px auto;
+}
+
+form {
+    width: 60vw;
+    max-width: 500px;
+    min-width: 300px;
+    margin: 0 auto;
+    padding-bottom: 2em;
+}
+
+fieldset {
+    border: none;
+    border-bottom: 3px solid ;
+}
+
+fieldset:last-of-type {
+    border-bottom: none;
+}
+
+legend {
+    text-align: left;
+    font-weight: bold;
+}
+
+input, textarea, select {
+  margin: 10px 0 0 0;
+  width: 100%;
+  min-height: 2em;
+  resize: none;
+}
+
+input, textarea, select {
+    background-color: #113800;
+    border: 1px solid #113800;
+    color: #FFFFFF;
+}
+
+.inline {
+    width: unset;
+    margin: 0 0.5em 0 0;
+    vertical-align: middle;
+    display: inline;
+}
+
+::placeholder {
+    color: #FFFFFF;
+    opacity: 75%;
+}
+
+input[type="submit"]:hover, input[type="reset"]:hover {
+    filter: grayscale(1);
+    cursor: pointer;
+}
+
+.custom-table tr:first-child {
+    background-color: #061500;
+}
+
+.custom-table th, .custom-table td {
+    border: 2px solid #113800;
+}
+
+.custom-table tr:nth-child(even) {
+    background-color: #133f03;
+}
+
+figure {
+    font-style: normal;
+}
+
+figcaption {
+    font-style: italic;
 }

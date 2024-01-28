@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Ariel Vera's Adept Viper &#9964; ITIS 3135 Forms</title>
+        <link rel="stylesheet" href="styles/default.css">
+    </head>
+
+    <body>
+        <header>
+            <h1>Ariel Vera's Adept Viper &#9964; ITIS 3135</h1>
+
+            <nav>
+                <a href="./">Home</a>
+                &#9964;
+                <a href="introduction.html">Introduction</a>
+                &#9964;
+                <a href="contract.html">Contract</a>
+                &#9964;
+                <a href="tables.html">Tables</a>
+                &#9964;
+                <a href="forms.html">Forms</a>
+            </nav>
+
+        </header>
+
+        <main>
+            <h2>Forms</h2>
+            <p>Please fill out the form with the required information:</p>
+
+            <form action="#" method="post">
+                <fieldset>
+                    <legend>Personal Information</legend>
+                    <label for="first-name">First Name <input id="first-name" name="first-name" type="text" placeholder="John" required></label>
+                    <label for="last-name">Last Name <input id="last-name" name="last-name" type="text" placeholder="Doe" required></label>
+                    <label for="date-of-birth">Date of Birth <input id="date-of-birth" name="date-of-birth" type="date" max="2023-12-31" required></label>
+                    <label for="male"><input id="male" name="gender" type="radio" class="inline" checked>Male</label>
+                    <label for="female"><input id="female" name="gender" type="radio" class="inline">Female</label>
+                </fieldset>
+
+                <fieldset>
+                    <legend>Contact Information</legend>
+                    <label for="email">Email <input id="email" name="email" type="email" placeholder="johndoe123@gmail.com" required></label>
+                    <label for="phone">Phone Number <input id="phone" name="phone" type="tel" placeholder="704-123-4567" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required></label>
+                    <label for="address">Address <input id="address" name="address" type="text" required></label>
+                </fieldset>
+
+                <fieldset>
+                    <legend>Security Information</legend>
+                    <label for="membership"> Desired Membership Level
+                        <select id="membership" name="membership">
+                            <option value="1">Basic</option>
+                            <option value="2">Premium</option>
+                            <option value="3">Master</option>
+                            <option value="4">Emperor</option>
+                        </select>
+                    </label>
+                    <label for="reasoning">Reason for Joining <textarea id="reasoning" name="reasoning" rows="4" cols="50" placeholder="I no longer feel safe."></textarea></label>
+                </fieldset>
+
+                <fieldset>
+                    <legend>Terms and Conditions</legend>
+                    <label for="terms-and-conditions"><input id="terms-and-conditions" name="terms-and-conditions" type="checkbox" class="inline" required>I agree to the terms and conditions.</label>
+                </fieldset>
+
+                <input type="submit"><input type="reset">
+            </form>
+        </main>
+
+        <footer>
+            <nav>
+                <a href="https://webpages.charlotte.edu/avera/" target="_blank">CLT Web</a>
+                &#9964;
+                <a href="https://github.com/CarolinaJefe/CarolinaJefe.github.io" target="_blank">GitHub</a>
+                &#9964;
+                <a href="https://carolinajefe.github.io/itis3135/" target="_blank">github.io</a>
+                &#9964;
+                <a href="https://www.freecodecamp.org/ArielVera24" target="_blank">freeCodeCamp</a>
+                &#9964;
+                <a href="https://www.codecademy.com/profiles/ArielVera24" target="_blank">Codecademy</a>
+                &#9964;
+                <a href="https://www.linkedin.com/in/ariel-vera-80bab5251/" target="_blank">LinkedIn</a>
+            </nav>
+
+            <p>Page built by <a href="verasvision.com" target="_blank">VerasVision LLC</a> &copy; 2023</p>
+
+            <a href="https://validator.w3.org/check?uri=referer">
+                <img style="border:0;width:88px;height:31px" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/W3C_HTML5_certified.png" alt="Valid HTML!">
+            </a>
+
+            <a href="https://jigsaw.w3.org/css-validator/check/referer">
+                <img style="border:0;width:88px;height:31px" src="https://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS!">
+            </a>               
+        </footer>
+
+        <script>
+            document.getElementById("validation_link_html").setAttribute("href","https://validator.w3.org/check?uri=" + location.href);
+            document.getElementById("validation_link_css").setAttribute("href","https://jigsaw.w3.org/css-validator/validator?uri=" + location.href);
+        </script>
+    </body>
+</html>
