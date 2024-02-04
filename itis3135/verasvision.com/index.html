@@ -4,17 +4,101 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>VerasVision Design Page</title>
+        <title>VerasVision - Services</title>
+        <!-- 446df6-52ffee-f8333c-2e3138-388659 -->
         <style>
             body {
-                background-color: #000000;
-                color: #FFFFFF;
+                background-color: #388659;
+                color: #2e3138;
                 font-family: 'Segoe UI', Tahoma, sans-serif;
+            }
+
+            hr {
+                border: none;
+                height: 1px;
+                background-color: #2e3138;
+            }
+
+            #logo {
+                transform: skew(-5deg);
+                filter: drop-shadow(4px 2px 4px black);
+            }
+
+            #company-info {
+                border-right: 2px solid #2e3138;
+                border-bottom: 2px solid #2e3138;
+                border-radius: 2.5%;
+                padding: 6px;
+            }
+
+            #header-container1 {
+                display: flex;
+                width: 1080px;
+                gap: 20px;
+            }
+
+            #service-list {
+                list-style-type: lower-greek;
+            }
+
+            address {
+                border: 1px solid #2e3138;
+                padding: 4px;
             }
         </style>
     </head>
 
     <body>
-        <p>This is a temporary design page of VerasVision.</p>
+        <header>
+            <div id="header-container1">
+                <img id="logo" src="../images/logo2.png" alt="Vera's Vision LLC Logo" width="150" height="150">
+                <div id="company-info">
+                    <h1>Adept Viper</h1>
+                    <hr>
+                    <i>For the Carolinas</i>
+                </div>
+                <h1>Ariel Vera | ITIS 3135</h1>
+            </div>
+            
+        </header>
+
+        <main>
+            <h2>Veras Vision's Services</h2>
+            <p>
+                Adept Viper is your go-to security solution in the Carolina region. We provide top-notch security services, including trained security guards, reinforcements, and digital security. Whether you need on-site personnel or advanced technology to protect your assets, Adept Viper has you covered. Our straightforward approach and no-nonsense attitude ensure that you get the security you need without any unnecessary frills. Trust Adept Viper to keep you, your business, and your events safe and secure in the heart of Carolina.</p>
+            <h3>Guarding the Carolinas Differently</h3>
+            <ul id="service-list">
+                <li>Agile and Proactive Security</li>
+                <li>Straightforward and Effective</li>
+                <li>Tailored Local Solutions</li>
+                <li>Client-Centric Excellence</li>
+                <li>Transparency</li>
+            </ul>
+            <h2>For Our Clients</h2>
+            <p>At Adept Viper, we aim to keep things simple. Our goal is to offer you straightforward and dependable security solutions. From understanding your needs to transparent communication and ongoing improvement, we're here to ensure your safety. Whether it's through trained staff, advanced tech, or community ties, we're committed to providing a level of protection that goes above and beyond. With Adept Viper, your peace of mind comes first.</p>
+            <p><b>Contact us at:</b></p>
+            <address>
+                <b>Email: </b>carolinajefe@av704.com<br>
+                <b>Phone: </b>704-980-8324<br>
+                <b>Address: </b>9201 Queen City Blvd, Charlotte, NC 28223
+            </address>
+        </main>
+
+        <footer>
+            <p>Page created by Ariel Vera &copy; 2024</p>
+
+            <a href="https://validator.w3.org/check?uri=referer">
+                <img style="border:0;width:88px;height:31px" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/W3C_HTML5_certified.png" alt="Valid HTML!">
+            </a>
+
+            <a href="https://jigsaw.w3.org/css-validator/check/referer">
+                <img style="border:0;width:88px;height:31px" src="https://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS!">
+            </a>
+        </footer>
+
+        <script>
+            document.getElementById("validation_link_html").setAttribute("href","https://validator.w3.org/check?uri=" + location.href);
+            document.getElementById("validation_link_css").setAttribute("href","https://jigsaw.w3.org/css-validator/validator?uri=" + location.href);
+        </script>
     </body>
 </html>
