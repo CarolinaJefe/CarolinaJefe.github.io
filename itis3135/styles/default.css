@@ -5,6 +5,11 @@ body {
     text-align: center;
 }
 
+main {
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
 h1, h2, h3 {
     font-family: Verdana, sans-serif;
     text-align: center;
@@ -27,6 +32,23 @@ img {
 figure {
     font-style: italic;
     text-align: center;
+}
+
+.list-container1 {
+    text-align: left;
+    width: auto;
+    list-style-type: disc;
+}
+
+.list-container1 ul {
+    list-style-type: circle !important;
+}
+
+.list-container2 {
+    text-align: left;
+    width: auto;
+    list-style-type: none;
+    border: 1px solid #0CF551;
 }
 
 .container {
