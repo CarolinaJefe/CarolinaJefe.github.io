@@ -97,6 +97,25 @@ input, textarea, select {
   resize: none;
 }
 
+button {
+    margin: 10px 0 0 0;
+    width: 10%;
+    min-height: 2em;
+    resize: none;
+    background-color: #113800;
+    border: 1px solid #113800;
+    color: #FFFFFF;
+}
+
+hr {
+    border: 1px solid #113800;
+}
+
+button:hover {
+    filter: grayscale(1);
+    cursor: pointer;
+}
+
 input, textarea, select {
     background-color: #113800;
     border: 1px solid #113800;

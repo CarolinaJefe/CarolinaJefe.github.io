@@ -3,8 +3,9 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Ariel Vera's Adept Viper &#9964; ITIS 3135 Home</title>
+        <title>Ariel Vera's Adept Viper &#9964; ITIS 3135 First Scripts</title>
         <link rel="stylesheet" href="styles/default.css">
+        <link rel="icon" href="images/saul.ico">
     </head>
 
     <body>
@@ -12,19 +13,29 @@
 
         <main>
             <h2>First Scripts</h2>
-            <h3 id="date-info"></h3>
+            <h3 id="date-heading"></h3>
+            <p id="personal-info"></p>
 
-            <form action="#" method="get" id="personal-info">
+            <form action="#" method="get" id="personal-info-form">
                 <fieldset>
                     <legend>Personal Information</legend>
-                    <label for="name-entry">Name <input type="text" id="name-entry" placeholder="John Doe" required></label>
-                    <label for="feeling-entry">How are you feeling? <input type="text" id="feeling-entry" placeholder="Great" required></label>
+                    <label for="username-entry">Name<input type="text" id="username-entry" placeholder="John Doe" required></label>
+                    <label for="feeling-entry">How are you feeling?<input type="text" id="feeling-entry" placeholder="Great" required></label>
+                    <label for="polygon-number-entry">Enter a Number<input type="number" id="polygon-number-entry" min="0" max="10" placeholder="0 - 10" required></label>
                 </fieldset>
-                <input type="submit" id="personal-info-submit">
+                <input type="submit">
             </form>
-        </main>
 
-        <p id="personal-info-text"></p>
+
+            <h3>Five Functions</h3>
+            <div>
+                <button id="releaseViper">Release the Viper</button>
+                <button id="sirens">Sirens</button>
+                <button id="blackout">Blackout</button>
+                <button id="contact">Contact</button>
+                <button id="lockdown">Lockdown</button>
+            </div>
+        </main>
 
         <div data-include="components/footer.html"></div>
 
