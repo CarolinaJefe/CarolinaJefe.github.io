@@ -6,8 +6,9 @@ body {
 }
 
 main {
-    margin-left: 25px;
-    margin-right: 25px;
+    margin: 0 auto;
+    max-width: 1200px;
+    width: 90%;
 }
 
 h1, h2, h3 {
@@ -157,4 +158,23 @@ figure {
 
 figcaption {
     font-style: italic;
+}
+
+/* Rule Overrides For Laptops / Small Screens */
+@media screen and ( min-width: 981px ) and ( max-width: 1400px ) {
+    body {
+        font-size: 100%;
+    }
+}
+/* Rule Overrides For Tablet Devices */
+@media screen and ( min-width: 601px ) and ( max-width: 980px )  {
+    body {
+        font-size: 75%;
+    }
+}
+/* Rule Overrides For Mobile Devices */
+@media screen and ( min-width: 370px ) and ( max-width: 600px ) {
+    body {
+        font-size: 65%;
+    }
 }
