@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Ariel Vera's Adept Viper &#9964; ITIS 3135 BYO Intro</title>
+        <link rel="stylesheet" href="styles/default.css">
+        <link rel="icon" href="images/saul.ico">
+    </head>
+
+    <body>
+        <div data-include="components/header.html"></div>
+
+        <main>
+            <h2>BYO Intro</h2>
+            <h3>Time to BYO Intro page, please fill out the form below so we can create your own page.</h3>
+
+            <div id="intro-container">
+                <form action="#" method="post" id="byo-intro-form">
+                    <fieldset id="main-fieldset">
+                        <legend>Main Information</legend>
+                        <label for="name">Name<input id="name" name="name" type="text" required></label>
+                        <label for="mascot">Mascot<input id="mascot" name="mascot" type="text" required></label>
+                        <label for="profile-image">Profile Image<input id="profile-image" name="profile-image" type="file" accept="image/png, image/jpeg" required></label>
+                        <label for="image-caption">Image Caption<input id="image-caption" name="image-caption" type="text" required></label>
+                        <label for="personal-background">Personal Background<input id="personal-background" name="personal-background" type="text" required></label>
+                        <label for="professional-background">Professional Background<input id="professional-background" name="professional-background" type="text" required></label>
+                        <label for="academic-background">Academic Background<input id="academic-background" name="academic-background" type="text" required></label>
+                        <label for="webdev-background">Background in Web Development<input id="webdev-background" name="webdev-background" type="text" required></label>
+                        <label for="primary-platform">Primary Computer Platform<input id="primary-platform" name="primary-platform" type="text" required></label>
+                    </fieldset>
+    
+                    <fieldset id="course-fieldset">
+                        <legend>Courses Currently Taking</legend>
+    
+                        <div id="course-container">
+    
+                        </div>
+    
+                        <button id="add-course-btn" type="button">Add Course</button>
+                    </fieldset>
+    
+                    <fieldset id="additional-fieldset">
+                        <legend>Additional Information</legend>
+                        <label for="funny-thing">Funny Thing?<input id="funny-thing" name="funny-thing" type="text"></label>
+                        <label for="additionals">Anything Else?<input id="additionals" name="additionals" type="text"></label>
+                    </fieldset>
+                    
+                    <fieldset id="agreement-fieldset">
+                        <legend>Privacy Agreement</legend>
+                        <label for="consent"><input id="consent" name="consent" type="checkbox" class="inline" required>I understand that what is on this page is not password protected and I will not put anything here that I don’t want publicly available.</label>
+                    </fieldset>
+    
+                    <input type="submit" value="Submit"><input type="reset" value="Reset">
+                </form>
+            </div>
+        </main>
+
+        <div data-include="components/footer.html"></div>
+
+        <script src="scripts/include.js"></script>
+        <script src="scripts/survey.js"></script>
+    </body>
+</html>

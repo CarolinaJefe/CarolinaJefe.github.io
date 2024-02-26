@@ -100,7 +100,7 @@ input, textarea, select {
 
 button {
     margin: 10px 0 0 0;
-    width: 10%;
+    width: 25%;
     min-height: 2em;
     resize: none;
     background-color: #113800;
