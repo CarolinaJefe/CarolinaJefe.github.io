@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Ariel Vera's Adept Viper &#9964; ITIS 3135 Project Outline</title>
+        <link rel="stylesheet" href="styles/default.css">
+        <link rel="icon" href="images/saul.ico">
+    </head>
+
+    <body>
+        <div data-include="components/header.html"></div>
+
+        <main>
+            <h2>Project Outline</h2>
+
+            <h3>Project Overview</h3>
+            <ul class="list-container1">
+                <li>This application aims to enhance the organization's visibility and strengthen community engagement. Its primary function is to raise awareness about the organization while providing a platform for acknowledging achievements and responsibilities.</li>
+                <li>The intended users of the website are generally everyone, as it's used as a means of recognition and embodiment. However, specifically, those within the organization are the primary focus.</li>
+                <li>The content within the website will include, but is not limited to, organization information, member information, organization timeline, contact information, organization accomplishments, and organization signup information.</li>
+            </ul>
+
+            <h3>Client Information</h3>
+            <ul class="list-container1">
+                <li>Richard Ramirez</li>
+                <li>Space Invaders</li>
+                <li>Private Email</li>
+            </ul>
+
+            <h3>Wireframe</h3>
+            <figure>
+                <img class="medium-img" src="images/si_web_design.png" alt="Website design for Space Invaders">
+                <figcaption>Space Invaders Website Design</figcaption>
+            </figure>
+
+            <h3>Site Map</h3>
+            <figure>
+                <img class="medium-img" src="images/si_site_map.png" alt="Website map for Space Invaders">
+                <figcaption>Space Invaders Website Map</figcaption>
+            </figure>
+
+            <h3>Page Design</h3>
+
+            <h4>Home</h4>
+            <ul class="list-container1">
+                <li>The purpose of this page is to welcome users and describe the organization's who, what, when, where, why, and how.</li>
+                <li>The audience targeted are both newcomers and members.</li>
+                <li>The page will contain various sections that revolve around explaining the organization's overall purpose. Additionally, there will be a static events/feed on the right side of the page.</li>
+                <li>This page does not ask users to enter data on the page.</li>
+                <li>The page will possibly contain hyperlinks for specific keywords and events/feed tab.</li>
+                <li>No actions will occur other than URL redirection.</li>
+            </ul>
+
+            <h4>Members</h4>
+            <ul class="list-container1">
+                <li>The purpose of this page is to welcome users about the members involved within the organization.</li>
+                <li>The audience targeted are both newcomers and members.</li>
+                <li>The page will contain profile cards for each member involved within the organization.</li>
+                <li>This page does ask users to enter data on the page for filtering.</li>
+                <li>Data sanitization is expected as you should never trust data coming in from the user.</li>
+                <li>The page will contain buttons, hyperlinks, and dropdowns for viewing the profile and contacting said member, if applicable.</li>
+                <li>As previously mentioned, actions will include browsing the profile and contact information for the respective member.</li>
+            </ul>
+
+            <h4>Invasions</h4>
+            <ul class="list-container1">
+                <li>The purpose of this page is to welcome users about the organization's accomplishments and current progress.</li>
+                <li>The audience targeted are specifically newcomers.</li>
+                <li>The page will contain various sections that revolve around explaining the organization's achievements and current progression. This varies vastly different from the history webpage as it only accounts for actions performed the current year.</li>
+                <li>This page does not ask users to enter data on the page.</li>
+                <li>The page will possibly contain hyperlinks and media for certain achievements.</li>
+                <li>No actions will occur other than URL redirection and media usage.</li>
+            </ul>
+
+            <h4>History</h4>
+            <ul class="list-container1">
+                <li>The purpose of this page is to welcome users about the organization's past accomplishments.</li>
+                <li>The audience targeted are specifically newcomers.</li>
+                <li>The page will contain various sections that revolve around explaining the organization's past achievements and current progression.</li>
+                <li>This page does not ask users to enter data on the page.</li>
+                <li>The page will possibly contain hyperlinks and media for certain achievements.</li>
+                <li>No actions will occur other than URL redirection and media usage.</li>
+            </ul>
+
+            <h4>Contact</h4>
+            <ul class="list-container1">
+                <li>The purpose of this page is to welcome users about the various ways to contact the organization.</li>
+                <li>The audience targeted are specifically newcomers.</li>
+                <li>The page will contain forms and methods for contacting a representative of the organization.</li>
+                <li>This page does ask users to enter data on the page for contacting.</li>
+                <li>Data sanitization is expected as you should never trust data coming in from the user.</li>
+                <li>The page will contain buttons and hyperlinks for contacting a representative.</li>
+                <li>As previously mentioned, actions will include sending an email or being redirected to an appropriate method of contact.</li>
+            </ul>
+
+            <h3>Dynamic Functionality</h3>
+            <p>The website will include dynamic headers and footers. Additionally, the usage of an API for gathering member data for the members webpage is in mind. Something like <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/learn-modern-javascript-methods-by-building-football-team-cards/step-47" target="_blank">this</a>. Retrieving JSON data from a database or JavaScript Fetch API shouldn't be too difficult. If time doesn't permit, static information will be adopted. Form interactivity will take place in the contact webpage, similar to <a href="forms.html" target="_blank">this</a>.</p>
+        </main>
+
+        <div data-include="components/footer.html"></div>
+
+        <script src="scripts/include.js"></script>
+    </body>
+</html>

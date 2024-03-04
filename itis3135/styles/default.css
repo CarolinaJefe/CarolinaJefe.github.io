@@ -26,8 +26,12 @@ a:hover {
     color: #FFFFFF;
 }
 
-img {
-    max-width: 15%;
+.small-img {
+    max-width: 25%;
+}
+
+.medium-img {
+    max-width: 75%;
 }
 
 figure {
@@ -100,7 +104,7 @@ input, textarea, select {
 
 button {
     margin: 10px 0 0 0;
-    width: 25%;
+    width: 20%;
     min-height: 2em;
     resize: none;
     background-color: #113800;
@@ -158,6 +162,25 @@ figure {
 
 figcaption {
     font-style: italic;
+}
+
+.calc-container {
+    box-sizing: inherit;
+    margin: 0 auto;
+    max-width: 200px;
+    background-color: #1b1c1a;
+    border-radius: 2.5%;
+    padding: 15px;
+}
+
+.calc-keys {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 4px;
+}
+
+.calc-keys button {
+    width: auto;
 }
 
 /* Rule Overrides For Laptops / Small Screens */
