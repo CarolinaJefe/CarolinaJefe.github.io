@@ -6,6 +6,7 @@
         <title>Ariel Vera's Adept Viper &#9964; ITIS 3135 Project Outline</title>
         <link rel="stylesheet" href="styles/default.css">
         <link rel="icon" href="images/saul.ico">
+        <script src="https://farawayforests.com/cdn/accumulus/accumulus.min.js"></script>
     </head>
 
     <body>
@@ -46,7 +47,7 @@
             <ul class="list-container1">
                 <li>The purpose of this page is to welcome users and describe the organization's who, what, when, where, why, and how.</li>
                 <li>The audience targeted are both newcomers and members.</li>
-                <li>The page will contain various sections that revolve around explaining the organization's overall purpose. Additionally, there will be a static events/feed on the right side of the page.</li>
+                <li>The page will contain various sections that revolve around explaining the organization's overall purpose. Additionally, there may be a static events/feed on the page.</li>
                 <li>This page does not ask users to enter data on the page.</li>
                 <li>The page will possibly contain hyperlinks for specific keywords and events/feed tab.</li>
                 <li>No actions will occur other than URL redirection.</li>
@@ -57,7 +58,7 @@
                 <li>The purpose of this page is to welcome users about the members involved within the organization.</li>
                 <li>The audience targeted are both newcomers and members.</li>
                 <li>The page will contain profile cards for each member involved within the organization.</li>
-                <li>This page does ask users to enter data on the page for filtering.</li>
+                <li>This page may ask users to enter data on the page for filtering.</li>
                 <li>Data sanitization is expected as you should never trust data coming in from the user.</li>
                 <li>The page will contain buttons, hyperlinks, and dropdowns for viewing the profile and contacting said member, if applicable.</li>
                 <li>As previously mentioned, actions will include browsing the profile and contact information for the respective member.</li>
@@ -65,42 +66,42 @@
 
             <h4>Invasions</h4>
             <ul class="list-container1">
-                <li>The purpose of this page is to welcome users about the organization's accomplishments and current progress.</li>
+                <li>The purpose of this page is to welcome users about the organization's accomplishments and current progress in wars.</li>
                 <li>The audience targeted are specifically newcomers.</li>
-                <li>The page will contain various sections that revolve around explaining the organization's achievements and current progression. This varies vastly different from the history webpage as it only accounts for actions performed the current year.</li>
+                <li>The page will contain various sections that revolve around explaining the organization's achievements and current progression.</li>
                 <li>This page does not ask users to enter data on the page.</li>
                 <li>The page will possibly contain hyperlinks and media for certain achievements.</li>
                 <li>No actions will occur other than URL redirection and media usage.</li>
             </ul>
 
-            <h4>History</h4>
+            <h4>Law &amp; Order</h4>
             <ul class="list-container1">
-                <li>The purpose of this page is to welcome users about the organization's past accomplishments.</li>
+                <li>The purpose of this page is to welcome users about the organization's rules.</li>
                 <li>The audience targeted are specifically newcomers.</li>
-                <li>The page will contain various sections that revolve around explaining the organization's past achievements and current progression.</li>
+                <li>The page will contain various sections that revolve around explaining the organization's rules and expectations.</li>
                 <li>This page does not ask users to enter data on the page.</li>
-                <li>The page will possibly contain hyperlinks and media for certain achievements.</li>
-                <li>No actions will occur other than URL redirection and media usage.</li>
+                <li>The page will not contain external media.</li>
+                <li>No actions will occur other than URL redirection.</li>
             </ul>
 
             <h4>Contact</h4>
             <ul class="list-container1">
                 <li>The purpose of this page is to welcome users about the various ways to contact the organization.</li>
                 <li>The audience targeted are specifically newcomers.</li>
-                <li>The page will contain forms and methods for contacting a representative of the organization.</li>
-                <li>This page does ask users to enter data on the page for contacting.</li>
-                <li>Data sanitization is expected as you should never trust data coming in from the user.</li>
+                <li>The page will contain links for contacting a representative of the organization.</li>
+                <li>This page should not ask users to enter data on the page for contacting. This is for simplicity's sake.</li>
                 <li>The page will contain buttons and hyperlinks for contacting a representative.</li>
                 <li>As previously mentioned, actions will include sending an email or being redirected to an appropriate method of contact.</li>
             </ul>
 
             <h3>Dynamic Functionality</h3>
-            <p>The website will include dynamic headers and footers. Additionally, the usage of an API for gathering member data for the members webpage is in mind. Something like <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/learn-modern-javascript-methods-by-building-football-team-cards/step-47" target="_blank">this</a>. Retrieving JSON data from a database or JavaScript Fetch API shouldn't be too difficult. If time doesn't permit, static information will be adopted. Form interactivity will take place in the contact webpage, similar to <a href="forms.html" target="_blank">this</a>.</p>
+            <p>The website will include dynamic headers and footers. Additionally, the usage of an API for gathering member data for the members webpage is in mind. Something like <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/learn-modern-javascript-methods-by-building-football-team-cards/step-47" target="_blank">this</a>. Retrieving JSON data from a database or JavaScript Fetch API shouldn't be too difficult. If time doesn't permit, static information will be adopted.</p>
         </main>
 
         <div data-include="components/footer.html"></div>
         <button type="button" style="width:2.5%;" onclick="document.querySelectorAll('link[rel=stylesheet]').forEach(function(e)	{e.setAttribute('href', '');});">No CSS</button>
         
         <script src="scripts/include.js"></script>
+        <script src="scripts/dynamic_menu.js"></script>
     </body>
 </html>

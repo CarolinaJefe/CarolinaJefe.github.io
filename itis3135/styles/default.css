@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
     background-color: #00240B;
     color: #0CF551;
@@ -182,6 +186,48 @@ figcaption {
 .calc-keys button {
     width: auto;
 }
+
+.slideshow-container {
+    position: relative;
+    background-color: #113800;
+}
+
+.slides {
+    display: none;
+}
+
+.slidetext {
+    color: #FF0000;
+    font-size: 18px;
+    padding: 8px 12px;
+    position: absolute;
+}
+
+.caption-container {
+    text-align: center;
+    background-color: #113800;
+    color: #0CF551;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.column {
+    float: left;
+    width: 16.66%;
+}
+
+.demo {
+    opacity: 0.6;
+}
+
+.active,
+.demo:hover {
+  opacity: 1;
+} 
 
 /* Rule Overrides For Laptops / Small Screens */
 @media screen and ( min-width: 981px ) and ( max-width: 1400px ) {

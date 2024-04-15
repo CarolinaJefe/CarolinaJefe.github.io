@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Ariel Vera's Adept Viper &#9964; ITIS 3135 Slideshow</title>
+        <link rel="stylesheet" href="styles/default.css">
+        <link rel="icon" href="images/saul.ico">
+        <script src="https://farawayforests.com/cdn/accumulus/accumulus.min.js"></script>
+    </head>
+
+    <body>
+        <div data-include="components/header.html"></div>
+        
+        <main>
+            <h2>Slideshow</h2>
+            
+            <div class="slideshow-container">
+
+                <div class="slides">
+                    <div class="slidetext">1 / 9</div>
+                    <img src="images/slideshow/apple.png" style="width:100%" alt="A red apple.">
+                </div>
+
+                <div class="slides">
+                    <div class="slidetext">2 / 9</div>
+                    <img src="images/slideshow/rocket.png" style="width:100%" alt="A rocket in outer space.">
+                </div>
+
+                <div class="slides">
+                    <div class="slidetext">3 / 9</div>
+                    <img src="images/slideshow/igloo.png" style="width:100%" alt="An igloo.">
+                </div>
+
+                <div class="slides">
+                    <div class="slidetext">4 / 9</div>
+                    <img src="images/slideshow/engine.png" style="width:100%" alt="A motor engine.">
+                </div>
+
+                <div class="slides">
+                    <div class="slidetext">5 / 9</div>
+                    <img src="images/slideshow/laptop.png" style="width:100%" alt="A laptop on a table.">
+                </div>
+
+                <div class="slides">
+                    <div class="slidetext">6 / 9</div>
+                    <img src="images/slideshow/volcano.png" style="width:100%" alt="A volcano eruption.">
+                </div>
+
+                <div class="slides">
+                    <div class="slidetext">7 / 9</div>
+                    <img src="images/slideshow/earth.png" style="width:100%" alt="Earth.">
+                </div>
+
+                <div class="slides">
+                    <div class="slidetext">8 / 9</div>
+                    <img src="images/slideshow/rock.png" style="width:100%" alt="A rock.">
+                </div>
+
+                <div class="slides">
+                    <div class="slidetext">9 / 9</div>
+                    <img src="images/slideshow/arrow.png" style="width:100%" alt="An arrow.">
+                </div>
+
+                <div class="caption-container">
+                    <p id="caption"></p>
+                </div>
+
+                <div class="row">
+                    <div class="column">
+                      <img class="demo cursor" src="images/slideshow/apple.png" style="width:100%" onclick="currentSlide(1)" alt="Red Apple">
+                    </div>
+
+                    <div class="column">
+                      <img class="demo cursor" src="images/slideshow/rocket.png" style="width:100%" onclick="currentSlide(2)" alt="Rocket Taking Off">
+                    </div>
+
+                    <div class="column">
+                      <img class="demo cursor" src="images/slideshow/igloo.png" style="width:100%" onclick="currentSlide(3)" alt="Igloo">
+                    </div>
+
+                    <div class="column">
+                      <img class="demo cursor" src="images/slideshow/engine.png" style="width:100%" onclick="currentSlide(4)" alt="Motor Engine">
+                    </div>
+
+                    <div class="column">
+                      <img class="demo cursor" src="images/slideshow/laptop.png" style="width:100%" onclick="currentSlide(5)" alt="Laptop On Desk">
+                    </div>
+
+                    <div class="column">
+                      <img class="demo cursor" src="images/slideshow/volcano.png" style="width:100%" onclick="currentSlide(6)" alt="Volcano Eruption">
+                    </div>
+
+                    <div class="column">
+                        <img class="demo cursor" src="images/slideshow/earth.png" style="width:100%" onclick="currentSlide(7)" alt="Earth">
+                    </div>
+
+                    <div class="column">
+                        <img class="demo cursor" src="images/slideshow/rock.png" style="width:100%" onclick="currentSlide(8)" alt="Rock">
+                    </div>
+
+                    <div class="column">
+                        <img class="demo cursor" src="images/slideshow/arrow.png" style="width:100%" onclick="currentSlide(9)" alt="Arrow">
+                    </div>
+                </div>
+            </div>
+
+            <p>The list below contains the prompts entered into DeepAI for the creation of the images.</p>
+            <ul class="list-container1">
+                <li>A - Generate a red apple.</li>
+                <li>R - Generate a rocket in outer space.</li>
+                <li>I - Generate an isolated igloo.</li>
+                <li>E - Generate a motor engine.</li>
+                <li>L - Generate a laptop on a table.</li>
+                <li>V - Generate a volcano eruption.</li>
+                <li>E - Generate a representation of Earth.</li>
+                <li>R - Generate a rock.</li>
+                <li>A - Generate an arrow.</li>
+            </ul>
+        </main>
+
+        <div data-include="components/footer.html"></div>
+        <button type="button" style="width:2.5%;" onclick="document.querySelectorAll('link[rel=stylesheet]').forEach(function(e)	{e.setAttribute('href', '');});">No CSS</button>
+        
+        <script src="scripts/include.js"></script>
+        <script src="scripts/dynamic_menu.js"></script>
+        <script src="scripts/slideshow.js"></script>
+    </body>
+</html>

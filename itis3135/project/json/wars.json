@@ -1,0 +1,1817 @@
+{
+    "items": [
+      {
+        "result": "win",
+        "endTime": "20240413T143122.000Z",
+        "teamSize": 25,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/vzzcBxXn71_Rw18t_Irifkf40KHubBiZLbB31l7eyD0.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/vzzcBxXn71_Rw18t_Irifkf40KHubBiZLbB31l7eyD0.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/vzzcBxXn71_Rw18t_Irifkf40KHubBiZLbB31l7eyD0.png"
+          },
+          "clanLevel": 8,
+          "attacks": 34,
+          "stars": 65,
+          "destructionPercentage": 93.04,
+          "expEarned": 251
+        },
+        "opponent": {
+          "tag": "#2LY9QPQJR",
+          "name": "Killer Squad",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/3yI8_XeuD5YLQkdBF07gYcd-qzltGpeuEZgm9UL38a4.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/3yI8_XeuD5YLQkdBF07gYcd-qzltGpeuEZgm9UL38a4.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/3yI8_XeuD5YLQkdBF07gYcd-qzltGpeuEZgm9UL38a4.png"
+          },
+          "clanLevel": 9,
+          "stars": 53,
+          "destructionPercentage": 76.6
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20240411T134534.000Z",
+        "teamSize": 20,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/vzzcBxXn71_Rw18t_Irifkf40KHubBiZLbB31l7eyD0.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/vzzcBxXn71_Rw18t_Irifkf40KHubBiZLbB31l7eyD0.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/vzzcBxXn71_Rw18t_Irifkf40KHubBiZLbB31l7eyD0.png"
+          },
+          "clanLevel": 8,
+          "attacks": 30,
+          "stars": 58,
+          "destructionPercentage": 97.85,
+          "expEarned": 216
+        },
+        "opponent": {
+          "tag": "#L92QVQPL",
+          "name": "TayNinh Funy",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/aPXOnCjSfxbOI_jPEMCxI-92q6GRuRC4smvjEoiQHi8.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/aPXOnCjSfxbOI_jPEMCxI-92q6GRuRC4smvjEoiQHi8.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/aPXOnCjSfxbOI_jPEMCxI-92q6GRuRC4smvjEoiQHi8.png"
+          },
+          "clanLevel": 12,
+          "stars": 53,
+          "destructionPercentage": 92.55
+        }
+      },
+      {
+        "result": null,
+        "endTime": "20240409T110926.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 1,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/vzzcBxXn71_Rw18t_Irifkf40KHubBiZLbB31l7eyD0.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/vzzcBxXn71_Rw18t_Irifkf40KHubBiZLbB31l7eyD0.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/vzzcBxXn71_Rw18t_Irifkf40KHubBiZLbB31l7eyD0.png"
+          },
+          "clanLevel": 8,
+          "attacks": 83,
+          "stars": 227,
+          "destructionPercentage": 444.8,
+          "expEarned": 0
+        },
+        "opponent": {
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+          },
+          "clanLevel": 0,
+          "stars": 128,
+          "destructionPercentage": 0
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20240401T061825.000Z",
+        "teamSize": 25,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png"
+          },
+          "clanLevel": 7,
+          "attacks": 34,
+          "stars": 69,
+          "destructionPercentage": 95.28,
+          "expEarned": 230
+        },
+        "opponent": {
+          "tag": "#2QCY89GP0",
+          "name": "tim bersama",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/gEHoEf8e4M-xZdofhOpSIhIIv0BhBQE2tgLFXqLPa6A.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/gEHoEf8e4M-xZdofhOpSIhIIv0BhBQE2tgLFXqLPa6A.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/gEHoEf8e4M-xZdofhOpSIhIIv0BhBQE2tgLFXqLPa6A.png"
+          },
+          "clanLevel": 8,
+          "stars": 57,
+          "destructionPercentage": 78.24
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20240330T064904.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png"
+          },
+          "clanLevel": 7,
+          "attacks": 25,
+          "stars": 44,
+          "destructionPercentage": 99.8,
+          "expEarned": 182
+        },
+        "opponent": {
+          "tag": "#2GY9LYQ0Q",
+          "name": "SHOT PONO",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/kDLs-B7j3IcWhjEZMcd-3vL1SWcTXnDqefJCOWtVk5w.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/kDLs-B7j3IcWhjEZMcd-3vL1SWcTXnDqefJCOWtVk5w.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/kDLs-B7j3IcWhjEZMcd-3vL1SWcTXnDqefJCOWtVk5w.png"
+          },
+          "clanLevel": 5,
+          "stars": 44,
+          "destructionPercentage": 98.933334
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20240327T000900.000Z",
+        "teamSize": 10,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png"
+          },
+          "clanLevel": 7,
+          "attacks": 14,
+          "stars": 27,
+          "destructionPercentage": 93.4,
+          "expEarned": 158
+        },
+        "opponent": {
+          "tag": "#2GR2LCL8R",
+          "name": "bekorchilar",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/JhUMjD-itCg6Mu-dsDZjKJzqaSMHJe-H_nQ87M5yY9A.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/JhUMjD-itCg6Mu-dsDZjKJzqaSMHJe-H_nQ87M5yY9A.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/JhUMjD-itCg6Mu-dsDZjKJzqaSMHJe-H_nQ87M5yY9A.png"
+          },
+          "clanLevel": 6,
+          "stars": 6,
+          "destructionPercentage": 20
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20240324T082352.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png"
+          },
+          "clanLevel": 7,
+          "attacks": 19,
+          "stars": 42,
+          "destructionPercentage": 94.46667,
+          "expEarned": 129
+        },
+        "opponent": {
+          "tag": "#2QY8C2G9V",
+          "name": "YOUTUBER",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/ufz7RsVE3nh94SE67SXWb1Bm1RRT4pV5o1SJx4Nx9es.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/ufz7RsVE3nh94SE67SXWb1Bm1RRT4pV5o1SJx4Nx9es.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/ufz7RsVE3nh94SE67SXWb1Bm1RRT4pV5o1SJx4Nx9es.png"
+          },
+          "clanLevel": 4,
+          "stars": 43,
+          "destructionPercentage": 99.8
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20240319T160517.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png"
+          },
+          "clanLevel": 7,
+          "attacks": 17,
+          "stars": 34,
+          "destructionPercentage": 84.4,
+          "expEarned": 124
+        },
+        "opponent": {
+          "tag": "#22YCU0QUU",
+          "name": "HYPEBEAST.GAM",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/oM97gck5rA9W5rVp9LlBXcbW9XdHydPrPOImCSu_gYA.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/oM97gck5rA9W5rVp9LlBXcbW9XdHydPrPOImCSu_gYA.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/oM97gck5rA9W5rVp9LlBXcbW9XdHydPrPOImCSu_gYA.png"
+          },
+          "clanLevel": 9,
+          "stars": 45,
+          "destructionPercentage": 100
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20240317T160412.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png"
+          },
+          "clanLevel": 7,
+          "attacks": 20,
+          "stars": 42,
+          "destructionPercentage": 96.4,
+          "expEarned": 177
+        },
+        "opponent": {
+          "tag": "#2QVULUQCP",
+          "name": "Mafia's",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/DzD0bkbqPt0gTsxptxMwlPMTJ99B9LbSm22cZSLlnF0.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/DzD0bkbqPt0gTsxptxMwlPMTJ99B9LbSm22cZSLlnF0.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/DzD0bkbqPt0gTsxptxMwlPMTJ99B9LbSm22cZSLlnF0.png"
+          },
+          "clanLevel": 6,
+          "stars": 34,
+          "destructionPercentage": 81.13333
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20240315T122734.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png"
+          },
+          "clanLevel": 7,
+          "attacks": 18,
+          "stars": 35,
+          "destructionPercentage": 89.2,
+          "expEarned": 124
+        },
+        "opponent": {
+          "tag": "#2G8CPJCY9",
+          "name": "HUSTLERS [IND]",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/xjkM7KaTQ24H8FLHL8qbPKcMaawCMhvX_UW7OMpE-Ys.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/xjkM7KaTQ24H8FLHL8qbPKcMaawCMhvX_UW7OMpE-Ys.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/xjkM7KaTQ24H8FLHL8qbPKcMaawCMhvX_UW7OMpE-Ys.png"
+          },
+          "clanLevel": 3,
+          "stars": 42,
+          "destructionPercentage": 98.13333
+        }
+      },
+      {
+        "result": "tie",
+        "endTime": "20240309T102437.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 1,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png"
+          },
+          "clanLevel": 7,
+          "attacks": 61,
+          "stars": 111,
+          "destructionPercentage": 257.66666,
+          "expEarned": 0
+        },
+        "opponent": {
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+          },
+          "clanLevel": 0,
+          "stars": 239,
+          "destructionPercentage": 0
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20240227T231248.000Z",
+        "teamSize": 10,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png"
+          },
+          "clanLevel": 7,
+          "attacks": 14,
+          "stars": 28,
+          "destructionPercentage": 96.1,
+          "expEarned": 135
+        },
+        "opponent": {
+          "tag": "#2Q8CR2PQ0",
+          "name": "los cocaleros",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/AN4xd_1s9uu-_6RhXwNRiUeyaMMyiMNhq65hon98HpU.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/AN4xd_1s9uu-_6RhXwNRiUeyaMMyiMNhq65hon98HpU.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/AN4xd_1s9uu-_6RhXwNRiUeyaMMyiMNhq65hon98HpU.png"
+          },
+          "clanLevel": 3,
+          "stars": 17,
+          "destructionPercentage": 75.6
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20240224T225238.000Z",
+        "teamSize": 10,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png"
+          },
+          "clanLevel": 7,
+          "attacks": 15,
+          "stars": 29,
+          "destructionPercentage": 97.9,
+          "expEarned": 88
+        },
+        "opponent": {
+          "tag": "#2GYGUPRG9",
+          "name": "STIBA MAKASSAR",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/20K8YA_PqviMGW9IEX2xJdKSrvsGWif6fZEigVycY_A.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/20K8YA_PqviMGW9IEX2xJdKSrvsGWif6fZEigVycY_A.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/20K8YA_PqviMGW9IEX2xJdKSrvsGWif6fZEigVycY_A.png"
+          },
+          "clanLevel": 4,
+          "stars": 30,
+          "destructionPercentage": 100
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20240221T150409.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png"
+          },
+          "clanLevel": 7,
+          "attacks": 20,
+          "stars": 40,
+          "destructionPercentage": 95.066666,
+          "expEarned": 117
+        },
+        "opponent": {
+          "tag": "#VRY0CY9J",
+          "name": "Expelliarmus",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/YDfQpUdxVo_uCOh7YdJJ3v4R50REiciaIbqm4OXNKwg.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/YDfQpUdxVo_uCOh7YdJJ3v4R50REiciaIbqm4OXNKwg.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/YDfQpUdxVo_uCOh7YdJJ3v4R50REiciaIbqm4OXNKwg.png"
+          },
+          "clanLevel": 6,
+          "stars": 45,
+          "destructionPercentage": 100
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20240218T135456.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png"
+          },
+          "clanLevel": 7,
+          "attacks": 21,
+          "stars": 44,
+          "destructionPercentage": 98.8,
+          "expEarned": 177
+        },
+        "opponent": {
+          "tag": "#2L080C0LV",
+          "name": "ASRUX",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/7Q2mceiwbxFK7TOt0civw4fOElMkN3S6BFV92VA0jL8.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/7Q2mceiwbxFK7TOt0civw4fOElMkN3S6BFV92VA0jL8.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/7Q2mceiwbxFK7TOt0civw4fOElMkN3S6BFV92VA0jL8.png"
+          },
+          "clanLevel": 3,
+          "stars": 44,
+          "destructionPercentage": 97.066666
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20240216T073919.000Z",
+        "teamSize": 10,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png"
+          },
+          "clanLevel": 7,
+          "attacks": 14,
+          "stars": 25,
+          "destructionPercentage": 88.6,
+          "expEarned": 143
+        },
+        "opponent": {
+          "tag": "#2GYJRLYLC",
+          "name": "ایران",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/ma6fWdXouafAR-3N5J0iHEBSpIsE51B3DnRod1ciqrA.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/ma6fWdXouafAR-3N5J0iHEBSpIsE51B3DnRod1ciqrA.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/ma6fWdXouafAR-3N5J0iHEBSpIsE51B3DnRod1ciqrA.png"
+          },
+          "clanLevel": 1,
+          "stars": 16,
+          "destructionPercentage": 61.7
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20240213T145751.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png"
+          },
+          "clanLevel": 7,
+          "attacks": 20,
+          "stars": 43,
+          "destructionPercentage": 99.666664,
+          "expEarned": 168
+        },
+        "opponent": {
+          "tag": "#2GQ8JQQUP",
+          "name": "Kızıl Alev",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png"
+          },
+          "clanLevel": 4,
+          "stars": 43,
+          "destructionPercentage": 96
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20240211T151800.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png"
+          },
+          "clanLevel": 7,
+          "attacks": 23,
+          "stars": 45,
+          "destructionPercentage": 100,
+          "expEarned": 170
+        },
+        "opponent": {
+          "tag": "#2GP9GRRJJ",
+          "name": "The Boys",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png"
+          },
+          "clanLevel": 4,
+          "stars": 37,
+          "destructionPercentage": 89
+        }
+      },
+      {
+        "result": "tie",
+        "endTime": "20240209T150608.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png"
+          },
+          "clanLevel": 7,
+          "attacks": 21,
+          "stars": 45,
+          "destructionPercentage": 100,
+          "expEarned": 132
+        },
+        "opponent": {
+          "tag": "#2Y9JPVQ0V",
+          "name": "Friendship",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/eMKmOkyEuhSqy4Xx96il4YoqmN8bnn5FqqvPmhXGvvc.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/eMKmOkyEuhSqy4Xx96il4YoqmN8bnn5FqqvPmhXGvvc.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/eMKmOkyEuhSqy4Xx96il4YoqmN8bnn5FqqvPmhXGvvc.png"
+          },
+          "clanLevel": 7,
+          "stars": 45,
+          "destructionPercentage": 100
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20240207T152008.000Z",
+        "teamSize": 30,
+        "attacksPerMember": 1,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/04l6eC-zWbjjK1ONGmtAHsES7DdRTsJWx3y5feSuwfg.png"
+          },
+          "clanLevel": 7,
+          "attacks": 122,
+          "stars": 339,
+          "destructionPercentage": 348.86667,
+          "expEarned": 0
+        },
+        "opponent": {
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+          },
+          "clanLevel": 0,
+          "stars": 219,
+          "destructionPercentage": 0
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20240130T220855.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/8GQcr1FG7T26McveAleXIIFQszXTIPBOCkc8Wcbh6lE.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/8GQcr1FG7T26McveAleXIIFQszXTIPBOCkc8Wcbh6lE.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/8GQcr1FG7T26McveAleXIIFQszXTIPBOCkc8Wcbh6lE.png"
+          },
+          "clanLevel": 6,
+          "attacks": 23,
+          "stars": 44,
+          "destructionPercentage": 99.933334,
+          "expEarned": 114
+        },
+        "opponent": {
+          "tag": "#R9RJUGUC",
+          "name": "[The]GRONES",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/aKKbqRjY10eSI_SM6fBtnHlaKV8ckLTVIpTwvpNXNzc.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/aKKbqRjY10eSI_SM6fBtnHlaKV8ckLTVIpTwvpNXNzc.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/aKKbqRjY10eSI_SM6fBtnHlaKV8ckLTVIpTwvpNXNzc.png"
+          },
+          "clanLevel": 9,
+          "stars": 45,
+          "destructionPercentage": 100
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20240128T215317.000Z",
+        "teamSize": 10,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/8GQcr1FG7T26McveAleXIIFQszXTIPBOCkc8Wcbh6lE.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/8GQcr1FG7T26McveAleXIIFQszXTIPBOCkc8Wcbh6lE.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/8GQcr1FG7T26McveAleXIIFQszXTIPBOCkc8Wcbh6lE.png"
+          },
+          "clanLevel": 6,
+          "attacks": 14,
+          "stars": 20,
+          "destructionPercentage": 70,
+          "expEarned": 128
+        },
+        "opponent": {
+          "tag": "#2GL8PQ9LU",
+          "name": "bangers",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/yosvqQ578sIW0Snm6hsTcKraoQoDfGft3EUkRGOBKYY.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/yosvqQ578sIW0Snm6hsTcKraoQoDfGft3EUkRGOBKYY.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/yosvqQ578sIW0Snm6hsTcKraoQoDfGft3EUkRGOBKYY.png"
+          },
+          "clanLevel": 2,
+          "stars": 10,
+          "destructionPercentage": 39
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20240126T165307.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/8GQcr1FG7T26McveAleXIIFQszXTIPBOCkc8Wcbh6lE.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/8GQcr1FG7T26McveAleXIIFQszXTIPBOCkc8Wcbh6lE.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/8GQcr1FG7T26McveAleXIIFQszXTIPBOCkc8Wcbh6lE.png"
+          },
+          "clanLevel": 6,
+          "attacks": 23,
+          "stars": 40,
+          "destructionPercentage": 92.8,
+          "expEarned": 159
+        },
+        "opponent": {
+          "tag": "#2Q0PPRVJJ",
+          "name": "الثورة السورية",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/3jEgT0iPK0aacLxZjMlXWaS4EsrOEKpTBhaLU1ZO9eo.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/3jEgT0iPK0aacLxZjMlXWaS4EsrOEKpTBhaLU1ZO9eo.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/3jEgT0iPK0aacLxZjMlXWaS4EsrOEKpTBhaLU1ZO9eo.png"
+          },
+          "clanLevel": 5,
+          "stars": 37,
+          "destructionPercentage": 91.4
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20240123T195707.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/8GQcr1FG7T26McveAleXIIFQszXTIPBOCkc8Wcbh6lE.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/8GQcr1FG7T26McveAleXIIFQszXTIPBOCkc8Wcbh6lE.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/8GQcr1FG7T26McveAleXIIFQszXTIPBOCkc8Wcbh6lE.png"
+          },
+          "clanLevel": 6,
+          "attacks": 25,
+          "stars": 43,
+          "destructionPercentage": 97.666664,
+          "expEarned": 171
+        },
+        "opponent": {
+          "tag": "#2LU2YG2CP",
+          "name": "t3m3t1t0",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/1Pd-huhZl7FMT9QEGOmKkkB8SNHTLVxmchRuD49lgCE.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/1Pd-huhZl7FMT9QEGOmKkkB8SNHTLVxmchRuD49lgCE.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/1Pd-huhZl7FMT9QEGOmKkkB8SNHTLVxmchRuD49lgCE.png"
+          },
+          "clanLevel": 3,
+          "stars": 26,
+          "destructionPercentage": 70.73333
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20240121T192515.000Z",
+        "teamSize": 10,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/8GQcr1FG7T26McveAleXIIFQszXTIPBOCkc8Wcbh6lE.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/8GQcr1FG7T26McveAleXIIFQszXTIPBOCkc8Wcbh6lE.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/8GQcr1FG7T26McveAleXIIFQszXTIPBOCkc8Wcbh6lE.png"
+          },
+          "clanLevel": 6,
+          "attacks": 18,
+          "stars": 29,
+          "destructionPercentage": 99.4,
+          "expEarned": 90
+        },
+        "opponent": {
+          "tag": "#UGQPLRC0",
+          "name": "DEVASTATION",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/W90l_OHIfSSX4gqEPvQ8ete175lJthLVyUeRwHIt1L8.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/W90l_OHIfSSX4gqEPvQ8ete175lJthLVyUeRwHIt1L8.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/W90l_OHIfSSX4gqEPvQ8ete175lJthLVyUeRwHIt1L8.png"
+          },
+          "clanLevel": 4,
+          "stars": 30,
+          "destructionPercentage": 100
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20240119T194317.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/8GQcr1FG7T26McveAleXIIFQszXTIPBOCkc8Wcbh6lE.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/8GQcr1FG7T26McveAleXIIFQszXTIPBOCkc8Wcbh6lE.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/8GQcr1FG7T26McveAleXIIFQszXTIPBOCkc8Wcbh6lE.png"
+          },
+          "clanLevel": 6,
+          "attacks": 23,
+          "stars": 41,
+          "destructionPercentage": 96.73333,
+          "expEarned": 126
+        },
+        "opponent": {
+          "tag": "#2LJQ9R9V0",
+          "name": "Akatsuki",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/h-jXF2lXZgzeg6ZrrxmsH6NnOOVwM00YYVCPk0q5-Tc.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/h-jXF2lXZgzeg6ZrrxmsH6NnOOVwM00YYVCPk0q5-Tc.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/h-jXF2lXZgzeg6ZrrxmsH6NnOOVwM00YYVCPk0q5-Tc.png"
+          },
+          "clanLevel": 5,
+          "stars": 43,
+          "destructionPercentage": 97.333336
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20240117T184747.000Z",
+        "teamSize": 30,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/8GQcr1FG7T26McveAleXIIFQszXTIPBOCkc8Wcbh6lE.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/8GQcr1FG7T26McveAleXIIFQszXTIPBOCkc8Wcbh6lE.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/8GQcr1FG7T26McveAleXIIFQszXTIPBOCkc8Wcbh6lE.png"
+          },
+          "clanLevel": 6,
+          "attacks": 42,
+          "stars": 89,
+          "destructionPercentage": 98.96667,
+          "expEarned": 223
+        },
+        "opponent": {
+          "tag": "#JGYRPYRJ",
+          "name": "سورية حرة",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/EJAvp7Gt3Kq8FFWXwvUlM97acua5eYicuVHw49lO76A.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/EJAvp7Gt3Kq8FFWXwvUlM97acua5eYicuVHw49lO76A.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/EJAvp7Gt3Kq8FFWXwvUlM97acua5eYicuVHw49lO76A.png"
+          },
+          "clanLevel": 16,
+          "stars": 90,
+          "destructionPercentage": 100
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20240115T162314.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/8GQcr1FG7T26McveAleXIIFQszXTIPBOCkc8Wcbh6lE.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/8GQcr1FG7T26McveAleXIIFQszXTIPBOCkc8Wcbh6lE.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/8GQcr1FG7T26McveAleXIIFQszXTIPBOCkc8Wcbh6lE.png"
+          },
+          "clanLevel": 6,
+          "attacks": 23,
+          "stars": 45,
+          "destructionPercentage": 100,
+          "expEarned": 169
+        },
+        "opponent": {
+          "tag": "#2Q9QCQ29L",
+          "name": "exile boot camp",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/4W8qU0TU6WBxp8TFFy3tqVMwYN80T6ONCLVckIxGAwE.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/4W8qU0TU6WBxp8TFFy3tqVMwYN80T6ONCLVckIxGAwE.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/4W8qU0TU6WBxp8TFFy3tqVMwYN80T6ONCLVckIxGAwE.png"
+          },
+          "clanLevel": 4,
+          "stars": 29,
+          "destructionPercentage": 67.8
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20240113T123010.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/8GQcr1FG7T26McveAleXIIFQszXTIPBOCkc8Wcbh6lE.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/8GQcr1FG7T26McveAleXIIFQszXTIPBOCkc8Wcbh6lE.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/8GQcr1FG7T26McveAleXIIFQszXTIPBOCkc8Wcbh6lE.png"
+          },
+          "clanLevel": 6,
+          "attacks": 20,
+          "stars": 45,
+          "destructionPercentage": 100,
+          "expEarned": 171
+        },
+        "opponent": {
+          "tag": "#2QCCVCUQV",
+          "name": "WARIORS BOY",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/OuQOjqrCo1XcT5XesXdcmnacHuYuicb6thwCJ-fGN44.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/OuQOjqrCo1XcT5XesXdcmnacHuYuicb6thwCJ-fGN44.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/OuQOjqrCo1XcT5XesXdcmnacHuYuicb6thwCJ-fGN44.png"
+          },
+          "clanLevel": 8,
+          "stars": 43,
+          "destructionPercentage": 99.46667
+        }
+      },
+      {
+        "result": null,
+        "endTime": "20240110T052154.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 1,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/8GQcr1FG7T26McveAleXIIFQszXTIPBOCkc8Wcbh6lE.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/8GQcr1FG7T26McveAleXIIFQszXTIPBOCkc8Wcbh6lE.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/8GQcr1FG7T26McveAleXIIFQszXTIPBOCkc8Wcbh6lE.png"
+          },
+          "clanLevel": 6,
+          "attacks": 83,
+          "stars": 201,
+          "destructionPercentage": 418,
+          "expEarned": 0
+        },
+        "opponent": {
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+          },
+          "clanLevel": 0,
+          "stars": 144,
+          "destructionPercentage": 0
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20231231T231336.000Z",
+        "teamSize": 20,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/8GQcr1FG7T26McveAleXIIFQszXTIPBOCkc8Wcbh6lE.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/8GQcr1FG7T26McveAleXIIFQszXTIPBOCkc8Wcbh6lE.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/8GQcr1FG7T26McveAleXIIFQszXTIPBOCkc8Wcbh6lE.png"
+          },
+          "clanLevel": 6,
+          "attacks": 26,
+          "stars": 59,
+          "destructionPercentage": 98.55,
+          "expEarned": 184
+        },
+        "opponent": {
+          "tag": "#2G20JJJRG",
+          "name": "Clanpins",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/jqwrNUMZCBT-Im_1o7JpF4p9Z6IiI8Yw3Kb3diAVxyM.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/jqwrNUMZCBT-Im_1o7JpF4p9Z6IiI8Yw3Kb3diAVxyM.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/jqwrNUMZCBT-Im_1o7JpF4p9Z6IiI8Yw3Kb3diAVxyM.png"
+          },
+          "clanLevel": 3,
+          "stars": 46,
+          "destructionPercentage": 85
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20231229T185032.000Z",
+        "teamSize": 20,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/q8omw4f747-O1jTtIyoSDeLSM7laz3Yff9JeX2zWI9I.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/q8omw4f747-O1jTtIyoSDeLSM7laz3Yff9JeX2zWI9I.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/q8omw4f747-O1jTtIyoSDeLSM7laz3Yff9JeX2zWI9I.png"
+          },
+          "clanLevel": 5,
+          "attacks": 29,
+          "stars": 60,
+          "destructionPercentage": 100,
+          "expEarned": 184
+        },
+        "opponent": {
+          "tag": "#2GCGULU8G",
+          "name": "michavito",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/cQ-Ho3wkwUCC5eYKjHrCzkMq7XxyfTfUQNxOoL3bOVA.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/cQ-Ho3wkwUCC5eYKjHrCzkMq7XxyfTfUQNxOoL3bOVA.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/cQ-Ho3wkwUCC5eYKjHrCzkMq7XxyfTfUQNxOoL3bOVA.png"
+          },
+          "clanLevel": 4,
+          "stars": 55,
+          "destructionPercentage": 96.4
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20231227T132839.000Z",
+        "teamSize": 20,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/q8omw4f747-O1jTtIyoSDeLSM7laz3Yff9JeX2zWI9I.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/q8omw4f747-O1jTtIyoSDeLSM7laz3Yff9JeX2zWI9I.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/q8omw4f747-O1jTtIyoSDeLSM7laz3Yff9JeX2zWI9I.png"
+          },
+          "clanLevel": 5,
+          "attacks": 32,
+          "stars": 60,
+          "destructionPercentage": 100,
+          "expEarned": 186
+        },
+        "opponent": {
+          "tag": "#2YVUUCLJ2",
+          "name": "AMIGOS",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/-D6fTeMZxurtcGwL5JGSYe7ZSVGtj5PZG7TBtMBJRP4.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/-D6fTeMZxurtcGwL5JGSYe7ZSVGtj5PZG7TBtMBJRP4.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/-D6fTeMZxurtcGwL5JGSYe7ZSVGtj5PZG7TBtMBJRP4.png"
+          },
+          "clanLevel": 8,
+          "stars": 45,
+          "destructionPercentage": 80.2
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20231225T111348.000Z",
+        "teamSize": 20,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/q8omw4f747-O1jTtIyoSDeLSM7laz3Yff9JeX2zWI9I.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/q8omw4f747-O1jTtIyoSDeLSM7laz3Yff9JeX2zWI9I.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/q8omw4f747-O1jTtIyoSDeLSM7laz3Yff9JeX2zWI9I.png"
+          },
+          "clanLevel": 5,
+          "attacks": 29,
+          "stars": 55,
+          "destructionPercentage": 95,
+          "expEarned": 175
+        },
+        "opponent": {
+          "tag": "#2L8U92RJP",
+          "name": "The Great Gaint",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png"
+          },
+          "clanLevel": 6,
+          "stars": 53,
+          "destructionPercentage": 94.55
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20231223T110802.000Z",
+        "teamSize": 20,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/q8omw4f747-O1jTtIyoSDeLSM7laz3Yff9JeX2zWI9I.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/q8omw4f747-O1jTtIyoSDeLSM7laz3Yff9JeX2zWI9I.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/q8omw4f747-O1jTtIyoSDeLSM7laz3Yff9JeX2zWI9I.png"
+          },
+          "clanLevel": 5,
+          "attacks": 32,
+          "stars": 55,
+          "destructionPercentage": 94.25,
+          "expEarned": 191
+        },
+        "opponent": {
+          "tag": "#2GRPU8QVQ",
+          "name": "华人部落",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/5PCf8yhhgfT02cxH17BnMFfkIt4WLz5yerQBm9y94YA.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/5PCf8yhhgfT02cxH17BnMFfkIt4WLz5yerQBm9y94YA.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/5PCf8yhhgfT02cxH17BnMFfkIt4WLz5yerQBm9y94YA.png"
+          },
+          "clanLevel": 4,
+          "stars": 24,
+          "destructionPercentage": 42.65
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20231221T023415.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/q8omw4f747-O1jTtIyoSDeLSM7laz3Yff9JeX2zWI9I.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/q8omw4f747-O1jTtIyoSDeLSM7laz3Yff9JeX2zWI9I.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/q8omw4f747-O1jTtIyoSDeLSM7laz3Yff9JeX2zWI9I.png"
+          },
+          "clanLevel": 5,
+          "attacks": 23,
+          "stars": 43,
+          "destructionPercentage": 96.53333,
+          "expEarned": 158
+        },
+        "opponent": {
+          "tag": "#2GPJGYPP8",
+          "name": "TEAM BEAST",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/tYRSxlWatY7menzCQTHln0JgI3lbwHYmHJVrWnu5PcE.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/tYRSxlWatY7menzCQTHln0JgI3lbwHYmHJVrWnu5PcE.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/tYRSxlWatY7menzCQTHln0JgI3lbwHYmHJVrWnu5PcE.png"
+          },
+          "clanLevel": 6,
+          "stars": 36,
+          "destructionPercentage": 86.13333
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20231219T024829.000Z",
+        "teamSize": 20,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/q8omw4f747-O1jTtIyoSDeLSM7laz3Yff9JeX2zWI9I.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/q8omw4f747-O1jTtIyoSDeLSM7laz3Yff9JeX2zWI9I.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/q8omw4f747-O1jTtIyoSDeLSM7laz3Yff9JeX2zWI9I.png"
+          },
+          "clanLevel": 5,
+          "attacks": 30,
+          "stars": 56,
+          "destructionPercentage": 97.2,
+          "expEarned": 177
+        },
+        "opponent": {
+          "tag": "#2GYLU99L8",
+          "name": "AE Nà Đình 2",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/wE8ixusgoWzfsObexZmiPbAIrzX9muvG-4ewzNnSYH8.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/wE8ixusgoWzfsObexZmiPbAIrzX9muvG-4ewzNnSYH8.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/wE8ixusgoWzfsObexZmiPbAIrzX9muvG-4ewzNnSYH8.png"
+          },
+          "clanLevel": 9,
+          "stars": 46,
+          "destructionPercentage": 90.45
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20231217T005203.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/q8omw4f747-O1jTtIyoSDeLSM7laz3Yff9JeX2zWI9I.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/q8omw4f747-O1jTtIyoSDeLSM7laz3Yff9JeX2zWI9I.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/q8omw4f747-O1jTtIyoSDeLSM7laz3Yff9JeX2zWI9I.png"
+          },
+          "clanLevel": 5,
+          "attacks": 24,
+          "stars": 42,
+          "destructionPercentage": 96.73333,
+          "expEarned": 106
+        },
+        "opponent": {
+          "tag": "#2GV8Q8JRP",
+          "name": "HHS Jv COC",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/5q_tTY51at5CHd7qPixl6Sfogf9RLsh8hk-cQ4OwCdg.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/5q_tTY51at5CHd7qPixl6Sfogf9RLsh8hk-cQ4OwCdg.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/5q_tTY51at5CHd7qPixl6Sfogf9RLsh8hk-cQ4OwCdg.png"
+          },
+          "clanLevel": 3,
+          "stars": 42,
+          "destructionPercentage": 96.8
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20231214T233731.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/q8omw4f747-O1jTtIyoSDeLSM7laz3Yff9JeX2zWI9I.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/q8omw4f747-O1jTtIyoSDeLSM7laz3Yff9JeX2zWI9I.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/q8omw4f747-O1jTtIyoSDeLSM7laz3Yff9JeX2zWI9I.png"
+          },
+          "clanLevel": 5,
+          "attacks": 24,
+          "stars": 44,
+          "destructionPercentage": 98.73333,
+          "expEarned": 161
+        },
+        "opponent": {
+          "tag": "#2G2L9LG2J",
+          "name": "Olympus OG Zeus",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/F2qFbmVeNZbnvM3pqg5R9ec4EIly5PjNG0Wi5_YZF3c.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/F2qFbmVeNZbnvM3pqg5R9ec4EIly5PjNG0Wi5_YZF3c.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/F2qFbmVeNZbnvM3pqg5R9ec4EIly5PjNG0Wi5_YZF3c.png"
+          },
+          "clanLevel": 5,
+          "stars": 20,
+          "destructionPercentage": 51.266666
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20231212T225546.000Z",
+        "teamSize": 20,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/q8omw4f747-O1jTtIyoSDeLSM7laz3Yff9JeX2zWI9I.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/q8omw4f747-O1jTtIyoSDeLSM7laz3Yff9JeX2zWI9I.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/q8omw4f747-O1jTtIyoSDeLSM7laz3Yff9JeX2zWI9I.png"
+          },
+          "clanLevel": 5,
+          "attacks": 29,
+          "stars": 57,
+          "destructionPercentage": 95.6,
+          "expEarned": 182
+        },
+        "opponent": {
+          "tag": "#2L8GCC9CV",
+          "name": "GOD OF WAR",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/U1mkW0aHK636qeVuZZoVE6_t7MOxm1iynHBUtWaEcBk.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/U1mkW0aHK636qeVuZZoVE6_t7MOxm1iynHBUtWaEcBk.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/U1mkW0aHK636qeVuZZoVE6_t7MOxm1iynHBUtWaEcBk.png"
+          },
+          "clanLevel": 9,
+          "stars": 45,
+          "destructionPercentage": 82.15
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20231210T171527.000Z",
+        "teamSize": 30,
+        "attacksPerMember": 1,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/q8omw4f747-O1jTtIyoSDeLSM7laz3Yff9JeX2zWI9I.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/q8omw4f747-O1jTtIyoSDeLSM7laz3Yff9JeX2zWI9I.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/q8omw4f747-O1jTtIyoSDeLSM7laz3Yff9JeX2zWI9I.png"
+          },
+          "clanLevel": 5,
+          "attacks": 180,
+          "stars": 474,
+          "destructionPercentage": 491.73334,
+          "expEarned": 0
+        },
+        "opponent": {
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+          },
+          "clanLevel": 0,
+          "stars": 152,
+          "destructionPercentage": 0
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20231130T131715.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/ETcuFPaSrVev4t5zOe2xq7k7cTbhOJfjjP30wwIPQr0.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/ETcuFPaSrVev4t5zOe2xq7k7cTbhOJfjjP30wwIPQr0.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/ETcuFPaSrVev4t5zOe2xq7k7cTbhOJfjjP30wwIPQr0.png"
+          },
+          "clanLevel": 4,
+          "attacks": 26,
+          "stars": 42,
+          "destructionPercentage": 97.666664,
+          "expEarned": 110
+        },
+        "opponent": {
+          "tag": "#VGGQYGGQ",
+          "name": "♥Lover♥war♥",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/hqBvysBsSlR9jSrtR9N_L7LzEg2Drpq_fpo58X2NebU.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/hqBvysBsSlR9jSrtR9N_L7LzEg2Drpq_fpo58X2NebU.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/hqBvysBsSlR9jSrtR9N_L7LzEg2Drpq_fpo58X2NebU.png"
+          },
+          "clanLevel": 6,
+          "stars": 44,
+          "destructionPercentage": 99.2
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20231128T123959.000Z",
+        "teamSize": 20,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/ETcuFPaSrVev4t5zOe2xq7k7cTbhOJfjjP30wwIPQr0.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/ETcuFPaSrVev4t5zOe2xq7k7cTbhOJfjjP30wwIPQr0.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/ETcuFPaSrVev4t5zOe2xq7k7cTbhOJfjjP30wwIPQr0.png"
+          },
+          "clanLevel": 4,
+          "attacks": 30,
+          "stars": 56,
+          "destructionPercentage": 95.7,
+          "expEarned": 163
+        },
+        "opponent": {
+          "tag": "#P920U2L9",
+          "name": "NGUDI UTOMO",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/sMRm7sU6mXMs02XbmtNMssY9Ix8X9q1z01swHfRaxko.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/sMRm7sU6mXMs02XbmtNMssY9Ix8X9q1z01swHfRaxko.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/sMRm7sU6mXMs02XbmtNMssY9Ix8X9q1z01swHfRaxko.png"
+          },
+          "clanLevel": 5,
+          "stars": 54,
+          "destructionPercentage": 93.2
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20231126T114233.000Z",
+        "teamSize": 20,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/ETcuFPaSrVev4t5zOe2xq7k7cTbhOJfjjP30wwIPQr0.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/ETcuFPaSrVev4t5zOe2xq7k7cTbhOJfjjP30wwIPQr0.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/ETcuFPaSrVev4t5zOe2xq7k7cTbhOJfjjP30wwIPQr0.png"
+          },
+          "clanLevel": 4,
+          "attacks": 28,
+          "stars": 58,
+          "destructionPercentage": 97.3,
+          "expEarned": 167
+        },
+        "opponent": {
+          "tag": "#YQG2JQQQ",
+          "name": "AIRTp1.inc",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/bOokIA1Xq186oR2ZuBdNE9f7x6sFFM_13C23WGjVmTw.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/bOokIA1Xq186oR2ZuBdNE9f7x6sFFM_13C23WGjVmTw.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/bOokIA1Xq186oR2ZuBdNE9f7x6sFFM_13C23WGjVmTw.png"
+          },
+          "clanLevel": 4,
+          "stars": 36,
+          "destructionPercentage": 72.55
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20231123T220311.000Z",
+        "teamSize": 25,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/ETcuFPaSrVev4t5zOe2xq7k7cTbhOJfjjP30wwIPQr0.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/ETcuFPaSrVev4t5zOe2xq7k7cTbhOJfjjP30wwIPQr0.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/ETcuFPaSrVev4t5zOe2xq7k7cTbhOJfjjP30wwIPQr0.png"
+          },
+          "clanLevel": 4,
+          "attacks": 27,
+          "stars": 63,
+          "destructionPercentage": 86.84,
+          "expEarned": 121
+        },
+        "opponent": {
+          "tag": "#2Q2CC09V0",
+          "name": "Blood Riders™",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png"
+          },
+          "clanLevel": 5,
+          "stars": 63,
+          "destructionPercentage": 92.96
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20231121T144909.000Z",
+        "teamSize": 20,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/ETcuFPaSrVev4t5zOe2xq7k7cTbhOJfjjP30wwIPQr0.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/ETcuFPaSrVev4t5zOe2xq7k7cTbhOJfjjP30wwIPQr0.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/ETcuFPaSrVev4t5zOe2xq7k7cTbhOJfjjP30wwIPQr0.png"
+          },
+          "clanLevel": 4,
+          "attacks": 26,
+          "stars": 56,
+          "destructionPercentage": 94.6,
+          "expEarned": 160
+        },
+        "opponent": {
+          "tag": "#2G9RLCVP8",
+          "name": "volki",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/LZ18qRLUjsZQWtsnvO5bwpMvNVpDaxnMq-5nSE68ltQ.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/LZ18qRLUjsZQWtsnvO5bwpMvNVpDaxnMq-5nSE68ltQ.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/LZ18qRLUjsZQWtsnvO5bwpMvNVpDaxnMq-5nSE68ltQ.png"
+          },
+          "clanLevel": 3,
+          "stars": 25,
+          "destructionPercentage": 50.95
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20231119T100252.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/ETcuFPaSrVev4t5zOe2xq7k7cTbhOJfjjP30wwIPQr0.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/ETcuFPaSrVev4t5zOe2xq7k7cTbhOJfjjP30wwIPQr0.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/ETcuFPaSrVev4t5zOe2xq7k7cTbhOJfjjP30wwIPQr0.png"
+          },
+          "clanLevel": 4,
+          "attacks": 19,
+          "stars": 42,
+          "destructionPercentage": 94.933334,
+          "expEarned": 139
+        },
+        "opponent": {
+          "tag": "#2G9L0YPJ2",
+          "name": "MUZAKKI KINGDOM",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/w7GqFYoI2JfKZjFiWQ2k_j4jUPJKLPX4I2ltOMg7xs8.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/w7GqFYoI2JfKZjFiWQ2k_j4jUPJKLPX4I2ltOMg7xs8.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/w7GqFYoI2JfKZjFiWQ2k_j4jUPJKLPX4I2ltOMg7xs8.png"
+          },
+          "clanLevel": 3,
+          "stars": 39,
+          "destructionPercentage": 89.6
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20231117T094455.000Z",
+        "teamSize": 20,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/ETcuFPaSrVev4t5zOe2xq7k7cTbhOJfjjP30wwIPQr0.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/ETcuFPaSrVev4t5zOe2xq7k7cTbhOJfjjP30wwIPQr0.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/ETcuFPaSrVev4t5zOe2xq7k7cTbhOJfjjP30wwIPQr0.png"
+          },
+          "clanLevel": 4,
+          "attacks": 30,
+          "stars": 56,
+          "destructionPercentage": 96.3,
+          "expEarned": 151
+        },
+        "opponent": {
+          "tag": "#2QGLCR0PJ",
+          "name": "Best Friendship",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/LY-N2Hfc11xR2b09XQWqGlElww-JKeFpAFjKgBtm7jA.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/LY-N2Hfc11xR2b09XQWqGlElww-JKeFpAFjKgBtm7jA.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/LY-N2Hfc11xR2b09XQWqGlElww-JKeFpAFjKgBtm7jA.png"
+          },
+          "clanLevel": 4,
+          "stars": 49,
+          "destructionPercentage": 88.4
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20231115T080355.000Z",
+        "teamSize": 20,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/ETcuFPaSrVev4t5zOe2xq7k7cTbhOJfjjP30wwIPQr0.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/ETcuFPaSrVev4t5zOe2xq7k7cTbhOJfjjP30wwIPQr0.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/ETcuFPaSrVev4t5zOe2xq7k7cTbhOJfjjP30wwIPQr0.png"
+          },
+          "clanLevel": 4,
+          "attacks": 28,
+          "stars": 56,
+          "destructionPercentage": 95.45,
+          "expEarned": 150
+        },
+        "opponent": {
+          "tag": "#2YVL908QY",
+          "name": "щ(ﾟдﾟщ)ｶﾓｰﾝ",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/YIttvq9474RhRD--94LhmrR9eOnB2ITNAxGGlRbBfIo.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/YIttvq9474RhRD--94LhmrR9eOnB2ITNAxGGlRbBfIo.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/YIttvq9474RhRD--94LhmrR9eOnB2ITNAxGGlRbBfIo.png"
+          },
+          "clanLevel": 5,
+          "stars": 5,
+          "destructionPercentage": 9.7
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20231113T071204.000Z",
+        "teamSize": 20,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/ETcuFPaSrVev4t5zOe2xq7k7cTbhOJfjjP30wwIPQr0.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/ETcuFPaSrVev4t5zOe2xq7k7cTbhOJfjjP30wwIPQr0.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/ETcuFPaSrVev4t5zOe2xq7k7cTbhOJfjjP30wwIPQr0.png"
+          },
+          "clanLevel": 4,
+          "attacks": 26,
+          "stars": 57,
+          "destructionPercentage": 96.2,
+          "expEarned": 146
+        },
+        "opponent": {
+          "tag": "#2G2PYLJ9V",
+          "name": "MUSLİM",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/dE709IES48-XkkNKsnexSAsH6eoYCWRS59toTEINt7I.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/dE709IES48-XkkNKsnexSAsH6eoYCWRS59toTEINt7I.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/dE709IES48-XkkNKsnexSAsH6eoYCWRS59toTEINt7I.png"
+          },
+          "clanLevel": 3,
+          "stars": 39,
+          "destructionPercentage": 73.8
+        }
+      },
+      {
+        "result": null,
+        "endTime": "20231110T151229.000Z",
+        "teamSize": 30,
+        "attacksPerMember": 1,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/ETcuFPaSrVev4t5zOe2xq7k7cTbhOJfjjP30wwIPQr0.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/ETcuFPaSrVev4t5zOe2xq7k7cTbhOJfjjP30wwIPQr0.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/ETcuFPaSrVev4t5zOe2xq7k7cTbhOJfjjP30wwIPQr0.png"
+          },
+          "clanLevel": 4,
+          "attacks": 114,
+          "stars": 221,
+          "destructionPercentage": 236.93333,
+          "expEarned": 0
+        },
+        "opponent": {
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+          },
+          "clanLevel": 0,
+          "stars": 271,
+          "destructionPercentage": 0
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20231102T024446.000Z",
+        "teamSize": 20,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/agIillUxRopqZf3rTozABUwDufD-qcyOh4JdKeMX2q0.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/agIillUxRopqZf3rTozABUwDufD-qcyOh4JdKeMX2q0.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/agIillUxRopqZf3rTozABUwDufD-qcyOh4JdKeMX2q0.png"
+          },
+          "clanLevel": 3,
+          "attacks": 26,
+          "stars": 59,
+          "destructionPercentage": 97.85,
+          "expEarned": 103
+        },
+        "opponent": {
+          "tag": "#2GV8899JG",
+          "name": "LABZ",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/R1X42Eu7-6DY80p4FAxDAorcDk9xrYRpq-qNGhalPeU.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/R1X42Eu7-6DY80p4FAxDAorcDk9xrYRpq-qNGhalPeU.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/R1X42Eu7-6DY80p4FAxDAorcDk9xrYRpq-qNGhalPeU.png"
+          },
+          "clanLevel": 2,
+          "stars": 60,
+          "destructionPercentage": 100
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20231029T164735.000Z",
+        "teamSize": 20,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/agIillUxRopqZf3rTozABUwDufD-qcyOh4JdKeMX2q0.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/agIillUxRopqZf3rTozABUwDufD-qcyOh4JdKeMX2q0.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/agIillUxRopqZf3rTozABUwDufD-qcyOh4JdKeMX2q0.png"
+          },
+          "clanLevel": 3,
+          "attacks": 28,
+          "stars": 59,
+          "destructionPercentage": 99.85,
+          "expEarned": 96
+        },
+        "opponent": {
+          "tag": "#2Q8ULL2PU",
+          "name": "kazak",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/FFqlRezRaFWxOo3cTCCMSOkbeVHyDiBmWNkEnDofsUU.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/FFqlRezRaFWxOo3cTCCMSOkbeVHyDiBmWNkEnDofsUU.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/FFqlRezRaFWxOo3cTCCMSOkbeVHyDiBmWNkEnDofsUU.png"
+          },
+          "clanLevel": 6,
+          "stars": 60,
+          "destructionPercentage": 100
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20231027T040528.000Z",
+        "teamSize": 20,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/agIillUxRopqZf3rTozABUwDufD-qcyOh4JdKeMX2q0.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/agIillUxRopqZf3rTozABUwDufD-qcyOh4JdKeMX2q0.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/agIillUxRopqZf3rTozABUwDufD-qcyOh4JdKeMX2q0.png"
+          },
+          "clanLevel": 3,
+          "attacks": 26,
+          "stars": 60,
+          "destructionPercentage": 100,
+          "expEarned": 141
+        },
+        "opponent": {
+          "tag": "#2GGGV98JV",
+          "name": "CYA",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/y09ftjHU5KKURUFWTo1LI5h8DfQzR6gAwjhCtWJ2tHs.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/y09ftjHU5KKURUFWTo1LI5h8DfQzR6gAwjhCtWJ2tHs.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/y09ftjHU5KKURUFWTo1LI5h8DfQzR6gAwjhCtWJ2tHs.png"
+          },
+          "clanLevel": 1,
+          "stars": 58,
+          "destructionPercentage": 95.55
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20231025T010844.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/agIillUxRopqZf3rTozABUwDufD-qcyOh4JdKeMX2q0.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/agIillUxRopqZf3rTozABUwDufD-qcyOh4JdKeMX2q0.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/agIillUxRopqZf3rTozABUwDufD-qcyOh4JdKeMX2q0.png"
+          },
+          "clanLevel": 3,
+          "attacks": 24,
+          "stars": 44,
+          "destructionPercentage": 99.53333,
+          "expEarned": 141
+        },
+        "opponent": {
+          "tag": "#2LR8CLLVR",
+          "name": "LEGENDYS KING",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/_Z481Qm6eLTWANZ5DX4D3-svcjc0djPlHpMKLPSN1Lo.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/_Z481Qm6eLTWANZ5DX4D3-svcjc0djPlHpMKLPSN1Lo.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/_Z481Qm6eLTWANZ5DX4D3-svcjc0djPlHpMKLPSN1Lo.png"
+          },
+          "clanLevel": 2,
+          "stars": 40,
+          "destructionPercentage": 89.8
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20231021T182851.000Z",
+        "teamSize": 20,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/agIillUxRopqZf3rTozABUwDufD-qcyOh4JdKeMX2q0.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/agIillUxRopqZf3rTozABUwDufD-qcyOh4JdKeMX2q0.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/agIillUxRopqZf3rTozABUwDufD-qcyOh4JdKeMX2q0.png"
+          },
+          "clanLevel": 3,
+          "attacks": 28,
+          "stars": 59,
+          "destructionPercentage": 98.85,
+          "expEarned": 97
+        },
+        "opponent": {
+          "tag": "#2YRJQ8LLQ",
+          "name": "Z1F4",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/PbPZBW8Px3ztvyDywY2W2pLXMLk5ocEVOAFJIFol5Z8.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/PbPZBW8Px3ztvyDywY2W2pLXMLk5ocEVOAFJIFol5Z8.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/PbPZBW8Px3ztvyDywY2W2pLXMLk5ocEVOAFJIFol5Z8.png"
+          },
+          "clanLevel": 4,
+          "stars": 59,
+          "destructionPercentage": 99.3
+        }
+      },
+      {
+        "result": null,
+        "endTime": "20231009T120907.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 1,
+        "clan": {
+          "tag": "#2QP8R0LC8",
+          "name": "Space Invaders",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/agIillUxRopqZf3rTozABUwDufD-qcyOh4JdKeMX2q0.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/agIillUxRopqZf3rTozABUwDufD-qcyOh4JdKeMX2q0.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/agIillUxRopqZf3rTozABUwDufD-qcyOh4JdKeMX2q0.png"
+          },
+          "clanLevel": 3,
+          "attacks": 61,
+          "stars": 129,
+          "destructionPercentage": 270.86667,
+          "expEarned": 0
+        },
+        "opponent": {
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+          },
+          "clanLevel": 0,
+          "stars": 128,
+          "destructionPercentage": 0
+        }
+      }
+    ],
+    "paging": {
+      "cursors": {}
+    }
+  }
